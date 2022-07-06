@@ -144,6 +144,9 @@
 
 .card1 h3 {
     padding: 10px 0px;
+    font-weight: bold;
+    ;
+    ;
 }
 
 .card1 img {
@@ -153,5 +156,23 @@
 .cards {
     display: flex;
     justify-content: space-evenly;
+
+}
+
+.dashboard {
+    margin: 10%;
+
+}
+
+.social-media-board {
+    width: 80%;
+
+    display: flex;
+    justify-content: space-around;
+    margin: 5% auto;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px gray;
     ;
+
 }
